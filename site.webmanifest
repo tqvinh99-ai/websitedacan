@@ -1,0 +1,9 @@
+{
+  "name": "Điện Lạnh Đắc An",
+  "short_name": "Đắc An",
+  "icons": [{ "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }],
+  "theme_color": "#070B64",
+  "background_color": "#FFFFFF",
+  "display": "browser",
+  "lang": "vi"
+}
